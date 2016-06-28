@@ -1,0 +1,1095 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"require",
+				"require-authentication.js"
+			],
+			[
+				"rend",
+				"renderWeather"
+			],
+			[
+				"map",
+				"mapStateToProps	(book-list.js)"
+			],
+			[
+				"ca",
+				"className"
+			],
+			[
+				"Video",
+				"VideoListItem"
+			],
+			[
+				"set",
+				"setShowBack"
+			],
+			[
+				"compon",
+				"components"
+			],
+			[
+				"this",
+				"this.refs"
+			],
+			[
+				"hide",
+				"hideAddDeck"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"consol",
+				"console.log('element"
+			],
+			[
+				"adv-",
+				"adv-quick-search"
+			],
+			[
+				"forming",
+				"formingNewString"
+			],
+			[
+				"toggle",
+				"toggleModal"
+			],
+			[
+				"handleSe",
+				"handleSelectDate"
+			],
+			[
+				"afterDue",
+				"afterDueDateError	(mock-data.json)"
+			],
+			[
+				"after",
+				"afterDueDateReasons	(mock-data.json)"
+			],
+			[
+				"Form",
+				"FormFieldLabel"
+			],
+			[
+				"FormFie",
+				"FormFieldLabel"
+			],
+			[
+				"Bl",
+				"BlueHeader"
+			],
+			[
+				"rh-s",
+				"rh-solidifi-secondary-light	(common.json)"
+			],
+			[
+				"rh-",
+				"rh-white-background	(common.json)"
+			],
+			[
+				"_sele",
+				"_selectedTime	(index.js)"
+			],
+			[
+				"Date",
+				"DateTimePicker	(routes.js)"
+			],
+			[
+				"accepte",
+				"acceptedDate"
+			],
+			[
+				"rh-soli",
+				"rh-solidifi-primary	(common.json)"
+			],
+			[
+				"globa",
+				"globalizeLocalizer"
+			],
+			[
+				"react-",
+				"react-foundation-components"
+			],
+			[
+				"Terms",
+				"TermsOfUse"
+			],
+			[
+				"Ter",
+				"TermsOfUse	(index.js)"
+			],
+			[
+				"FormF",
+				"FormField"
+			],
+			[
+				"FormFi",
+				"FormField"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"mailing",
+				"mailing-address/"
+			],
+			[
+				"Colu",
+				"ColumnContent"
+			],
+			[
+				"Panel",
+				"PanelTableText"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"padding",
+				"padding-bottom	(styles.scss)"
+			],
+			[
+				"before",
+				"beforeAcceptedDate"
+			],
+			[
+				"info",
+				"info"
+			],
+			[
+				"error",
+				"error	(index.js)"
+			],
+			[
+				"order",
+				"orderNumber	(dummy-data-master.js)"
+			],
+			[
+				"sele",
+				"selectedDate"
+			],
+			[
+				"selected",
+				"selectedTime"
+			],
+			[
+				"checkSe",
+				"checkSelectedTime"
+			],
+			[
+				"con",
+				"convertedDueDate"
+			],
+			[
+				"conv",
+				"convertedAcceptedDate"
+			],
+			[
+				"react",
+				"react-foundation-components	(index.js)"
+			],
+			[
+				"import",
+				"important	(dummy-data-master.js)"
+			],
+			[
+				"OrderH",
+				"OrderHeaderText"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"auto",
+				"autoIncrement"
+			],
+			[
+				"progress",
+				"progress-bar.css	(index.js)"
+			],
+			[
+				"rh-form",
+				"rh-form-button	(index.js)"
+			],
+			[
+				"rh-form-input",
+				"rh-form-input-error	(index.js)"
+			],
+			[
+				"rh-form-field",
+				"rh-form-field-error	(index.js)"
+			],
+			[
+				"clas",
+				"classnames	(index.js)"
+			],
+			[
+				"cla",
+				"classname"
+			],
+			[
+				"Regi",
+				"RegistrationBlock"
+			],
+			[
+				"screen",
+				"screenSize"
+			],
+			[
+				"scree",
+				"screenSize"
+			],
+			[
+				"regist",
+				"registration-block/"
+			],
+			[
+				"Contact",
+				"ContactBlock"
+			],
+			[
+				"Regist",
+				"Registration	(dummy-data-master.js)"
+			],
+			[
+				"blue",
+				"blue	(dummy-data-master.js)"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"no-mess",
+				"no-messages-found/"
+			],
+			[
+				"notes",
+				"NotesAndMessages"
+			],
+			[
+				"Ta",
+				"TABLE_CONTENTS	(dummy-data-master.js)"
+			],
+			[
+				"showT",
+				"showTableRows"
+			],
+			[
+				"message",
+				"message"
+			],
+			[
+				"T",
+				"TABLE_CONTENTS	(dummy-data-master.js)"
+			],
+			[
+				"Show",
+				"ShowOrderMessages"
+			],
+			[
+				"TABLE",
+				"TABLE_CONTENTS	(dummy-data-master.js)"
+			],
+			[
+				"arra",
+				"arrayOfHeadings"
+			],
+			[
+				"new",
+				"new"
+			],
+			[
+				"dummy",
+				"dummyMessages"
+			],
+			[
+				"note",
+				"notes-and-messages/"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"TABL",
+				"TABLE_CONTENTS"
+			],
+			[
+				"Proper",
+				"PropertyAndCharges"
+			],
+			[
+				"Prop",
+				"PropertyAndCharges"
+			],
+			[
+				"Ord",
+				"OrderSummary"
+			],
+			[
+				"compone",
+				"componentWillUnmount"
+			],
+			[
+				"brows",
+				"browserWidth"
+			],
+			[
+				"get",
+				"getWidth"
+			],
+			[
+				"Pane",
+				"PanelTableHeading"
+			],
+			[
+				"show",
+				"showOnlyExist"
+			],
+			[
+				"feeChan",
+				"feeChangeModal"
+			],
+			[
+				"Submit",
+				"SubmitCancelButtons"
+			],
+			[
+				"field",
+				"field-agent/"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"link-not-",
+				"link-not-active-journey"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"prou",
+				"productNumber"
+			],
+			[
+				"mari",
+				"marginTop"
+			],
+			[
+				"red",
+				"redbox"
+			],
+			[
+				"_P",
+				"_Parallax"
+			],
+			[
+				"sro",
+				"scrollSpeed"
+			],
+			[
+				"wire",
+				"wireframe_shots"
+			],
+			[
+				"product",
+				"product-shots"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"dreams_",
+				"dreams_flyHeight"
+			],
+			[
+				"doc",
+				"docHeight"
+			],
+			[
+				"pass",
+				"passion_driftHeight"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"sky",
+				"skyProducts"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"produc",
+				"productNumber"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"num",
+				"numOfPictures"
+			],
+			[
+				"right_menu_",
+				"right_menu_button_white"
+			],
+			[
+				"righ-",
+				"right-exit-menu"
+			],
+			[
+				"picture",
+				"pictureArray"
+			],
+			[
+				"image_",
+				"image_number3"
+			],
+			[
+				"image",
+				"image_number4"
+			],
+			[
+				"im",
+				"image_number3"
+			],
+			[
+				"sustain_",
+				"sustain_image_2"
+			],
+			[
+				"sustain",
+				"sustainability_button_bnw"
+			],
+			[
+				"sust",
+				"sustainability_button_bnw"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"contact",
+				"contact_details"
+			],
+			[
+				"mobile",
+				"mobile_contact_form"
+			],
+			[
+				"php",
+				"php"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/Kennington/Documents/React/Udemy - Advanced Redux/src/actions/types.js",
+		"/Users/Kennington/Documents/React/Udemy - Advanced Redux/src/actions/index.js",
+		"/Users/Kennington/Documents/React/Udemy - Advanced Redux/test/test_helper.js",
+		"/Users/Kennington/Documents/React/Udemy - Advanced Redux/test/components/app_test.js",
+		"/Users/Kennington/Documents/React/Udemy weather forecast/style/style.css",
+		"/Users/Kennington/Documents/React/Udemy weather forecast/README.md",
+		"/Users/Kennington/Documents/React/Udemy weather forecast/package.json",
+		"/Users/Kennington/Documents/React/Udemy weather forecast/src/components/google-map.js",
+		"/Users/Kennington/Documents/React/Udemy weather forecast/src/components/chart.js",
+		"/Users/Kennington/Documents/React/Udemy - modern redux/src/actions/index.js",
+		"/Users/Kennington/Documents/React/Udemy - modern redux/src/reducers/index.js",
+		"/Users/Kennington/Documents/React/Udemy - modern redux/src/reducers/reducer-active-book.js",
+		"/Users/Kennington/Documents/React/Udemy - modern redux/src/reducers/reducer-books.js",
+		"/Users/Kennington/Documents/React/Udemy - modern redux/src/containers/book-detail.js",
+		"/Users/Kennington/Documents/React/Udemy - modern redux/src/containers/book-list.js",
+		"/Users/Kennington/Documents/React/Udemy - modern redux/src/components/app.js",
+		"/Users/Kennington/Documents/React/Udemy - modern redux/src/index.js",
+		"/Users/Kennington/Documents/React/Udemy - modern redux/src/components/book-list.js",
+		"/Users/Kennington/Documents/React/Udemy - modern redux/package.json",
+		"/Users/Kennington/Documents/React/udemyModernTutorial/style/style.css",
+		"/Users/Kennington/Documents/React/udemyModernTutorial/src/index.js",
+		"/Users/Kennington/Documents/React/udemyModernTutorial/src/components/app.js",
+		"/Users/Kennington/Documents/React/udemyTutorial/test/test_helper.js",
+		"/Users/Kennington/Documents/React/udemyTutorial/package.json",
+		"/Users/Kennington/Documents/React/simpleRedux/src/index.js",
+		"/Users/Kennington/Documents/React/simpleRedux/package.json",
+		"/Users/Kennington/Documents/React/simpleRedux/src/reducers/index.js",
+		"/Users/Kennington/Documents/React/simpleRedux/src/actions/index.js",
+		"/Users/Kennington/Documents/React/simpleRedux/server.js",
+		"/Users/Kennington/Documents/React/simpleRedux/webpack.config.js",
+		"/Users/Kennington/Documents/React/simpleRedux/bundle.js",
+		"/Users/Kennington/Documents/React/simpleRedux/src/components/app.js",
+		"/Users/Kennington/Documents/React/simpleRedux/node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+		"/Users/Kennington/Documents/React/simpleRedux/index.html",
+		"/Users/Kennington/Downloads/simpleRedux/src/actions/index.js",
+		"/Users/Kennington/Downloads/simpleRedux/src/components/visible-cards.js",
+		"/Users/Kennington/Downloads/simpleRedux/src/components/app.js",
+		"/Users/Kennington/Downloads/simpleRedux/style/style.css",
+		"/Users/Kennington/Downloads/simpleRedux/src/components/sidebar.js",
+		"/Users/Kennington/Downloads/simpleRedux/src/components/card.js",
+		"/Users/Kennington/Downloads/simpleRedux/src/components/toolbar.js",
+		"/Users/Kennington/Downloads/simpleRedux/src/components/card-modal.js",
+		"/Users/Kennington/Downloads/simpleRedux/src/reducers/index.js",
+		"/Users/Kennington/Downloads/simpleRedux/server.js",
+		"/Users/Kennington/Downloads/simpleRedux/src/index.js",
+		"/Users/Kennington/Downloads/simpleRedux/src/components/study-modal.js",
+		"/Users/Kennington/Downloads/simpleRedux/src/components/new-card-modal.js",
+		"/Users/Kennington/Downloads/simpleRedux/src/components/edit-card-modal.js",
+		"/Users/Kennington/Downloads/simpleRedux/package.json",
+		"/Users/Kennington/Downloads/simpleRedux/bundle.js",
+		"/Users/Kennington/Downloads/simpleRedux/src/components/styles.css",
+		"/Users/Kennington/Downloads/simpleRedux/src/localStore.js",
+		"/Users/Kennington/Downloads/simpleRedux/index.html",
+		"/Users/Kennington/Downloads/simpleRedux/webpack.config.js",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/utils/states-provinces-dropdown.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search/adv-search/styles.scss",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search/quick-search/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search/adv-search/index.js",
+		"/Users/Kennington/Documents/redihive-js/package.json",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search/search-bar/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search/search-form/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/components/progress-bar/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/containers/order-panels/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/app/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search/search-bar/styles.scss",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search/sorting-feature/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search/searching/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/components/no-searches-found/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search/search-form/styles.scss",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/actions/message-board/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/actions/notes-and-messages/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/components/no-new-messages/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/components/alerts/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/components/terms-of-use/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/actions/schedule-inspection/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/components/terms-of-use/styles.scss",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/actions/schedule-inspection/left-panel/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/containers/summary/actions/schedule-inspection-page/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/routes.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/containers/summary/actions/terms-of-use/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/actions/terms-of-use/styles.scss",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/actions/terms-of-use/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/actions/message-board/mobile-title/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/actions/message-board/list-order-messages/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/actions/notes-and-messages/loading-panel/styles.scss",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/components/progress-bar/styles.scss",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/actions/notes-and-messages/loading-panel/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/profile/mailing-address/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/profile/locale/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/profile/left-panel/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search/sorting-feature/styles.scss",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search/sorting/styles.scss",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search/sorting/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search/Sorting/styles.scss",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search/Sorting/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search-bar/search-form/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/dummy-data/dummy-data-master.js",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/components/navigation-new/containers/quick-links-menu-2/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/login/change-password/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/actions/action-buttons/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/search-bar/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/containers/search-bar-page/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/actions/no-action-required/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/containers/summary/actions/client-acceptance-page/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/containers/summary/actions/on-hold-page/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/containers/summary/actions/awaiting-approval-page/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/actions/on-hold/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/containers/summary/actions/no-action-required-page/index.js",
+		"/Users/Kennington/Documents/RealMatters/realmatters_trunk.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/borrower-info/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/actions/awaiting-acceptance/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/documents/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/themes/solidifi.json",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/order-header/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/utils/date-parser.js",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/components/due-date-badge/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/components/date-time-picker/native-mobile-picker/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/components/date-time-picker/desktop-datepicker/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/components/date-time-picker/index.js",
+		"/Users/Kennington/Documents/redihive-js/src/field-agent/order/components/summary/actions/schedule-inspection/styles.scss",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/components/date-time-picker/styles.scss",
+		"/Users/Kennington/Documents/redihive-js/src/node_modules/redihive/progress-bar/index.js",
+		"/Users/Kennington/Documents/redihive-js/webpack.config.js",
+		"/Users/Kennington/Documents/redihive-js/server.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/Kennington/Documents/React/simpleRedux",
+			"/Users/Kennington/Downloads/simpleRedux",
+			"/Users/Kennington/Documents/redihive-js/src",
+			"/Users/Kennington/Documents/wordpress/willey",
+			"/Users/Kennington/Documents/squarespace/aveconcept",
+			"/Users/Kennington/Documents/squarespace",
+			"/Users/Kennington/Documents/wordpress/willey/public/wp-content",
+			"/Applications/MAMP/htdocs/bptutorial/wp-content/themes/evolve",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_$",
+			"lon",
+			"videos",
+			"data",
+			"thunkMiddleware",
+			"card-modal",
+			"styles",
+			"store.",
+			"createStore",
+			"dateField",
+			"{ date: 'medium' }",
+			"quickSearchString",
+			"test",
+			"searchFormObject",
+			"name",
+			"newState",
+			"searchInputsOnChange",
+			"searchBarHasContent",
+			"showMore",
+			"handleShowMore",
+			"relevantInputs",
+			"tempInput",
+			"eachSelect",
+			"temp",
+			"inputValue",
+			"inputField",
+			"inputValue",
+			"Value",
+			"Field",
+			"input",
+			"dummySearchResults",
+			"searching",
+			"eachInput",
+			"states",
+			"Date",
+			"/new-file-structure",
+			"const",
+			"searchBarHasContent",
+			"searchFormOnChange",
+			"checkMainSearchBar",
+			"inputValue",
+			"testOnChange",
+			"haveContent",
+			"reset",
+			"checkInput",
+			"ClearText",
+			"clearText",
+			"checkInput",
+			"picker",
+			"terms-of-use",
+			"ProgressBar",
+			"count",
+			"loading",
+			"<input",
+			"div",
+			"PanelTextLabel",
+			"showMore",
+			"containText",
+			"1px sol",
+			"1s",
+			"width",
+			"ui-16px-simple-remove.svg",
+			"red",
+			"formfield",
+			"Dropdown",
+			"div",
+			"SearchPage",
+			"on-hold",
+			"NoActionRequiredPage",
+			"title",
+			"titles:",
+			".fullDate",
+			".longDate",
+			".fullDate",
+			"dueDate",
+			"dateParser",
+			"_selectedDate",
+			"ShowButtons",
+			"militaryTime",
+			"props.",
+			"func",
+			"=",
+			"beforeAcceptedDate",
+			"leftContent",
+			"less",
+			"    leftContent: PropTypes.object.isRequired,\n    order: PropTypes.instanceOf(Order).isRequired,\n    acceptedDate: PropTypes.object.isRequired,\n    dueDate: PropTypes.object.isRequired,",
+			"SASS_LOADERS",
+			"padding",
+			"content",
+			"100px",
+			"PanelHead",
+			"HeadColumn",
+			"revealStyles",
+			"div",
+			"redux-form",
+			"checkbox",
+			"agentFromUSA",
+			"FormFieldError",
+			"FormFieldInput",
+			"FormFieldLabel",
+			".error",
+			"errorState",
+			"validation",
+			"error",
+			"errors",
+			"email",
+			"false",
+			"div",
+			"FormFieldError",
+			"div",
+			"FormFieldError",
+			"phone.",
+			"props.",
+			"synchronousValidation",
+			"form",
+			"formErrors",
+			"0a0a0a",
+			"column-padding",
+			"Column",
+			"ContentColumn",
+			"auto",
+			" className={styles['column-padding']}",
+			"Column",
+			"ContentColumn",
+			"ColumnContent",
+			"Left",
+			"Row",
+			"text"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"get_template_directory_uri()",
+			"#specifications .description",
+			"/assets/product_button/",
+			"7 quiet vibration modes",
+			"/assets/images",
+			"product-shots",
+			"product-shot",
+			"product-shots",
+			"pleasure_skylogo",
+			"Futura",
+			"Futura-Book",
+			"75vw",
+			".wrap",
+			"Join the discussion",
+			"Have a discussion with",
+			" ",
+			"http://"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"open":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"default_dir": "/Users/Kennington/Documents/React/Udemy - Advanced Redux",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Udemy authentication.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"themes/willeytheme/assets/styles/main.scss"
+			],
+			[
+				"user_background",
+				"client/templates/user_background.html"
+			],
+			[
+				"yessetting",
+				"yesmaster-app/meteor/settings-local.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 412.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
